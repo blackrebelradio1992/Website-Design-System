@@ -1,0 +1,32 @@
+body {
+    font-family: "monico", "sans-serif", monospace;
+}
+
+.container {
+    border: solid 1px black;
+}
+
+.color-container {
+    color: white;
+    background: white;
+}
+
+.midnight-blue {
+    background-color: #191970;
+}
+
+.blood-red {
+    Background-color: #880808;
+}
+
+.thyme-green {
+    background-color: #7c796e;
+}
+
+.mountbatten {
+    background-color: #997a8d;
+}
+
+.gold {
+    background-color: #FFD700;
+}
