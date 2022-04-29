@@ -4,11 +4,21 @@ body {
 
 .container {
     border: solid 1px black;
+    padding: 10px;
+    margin: 10px;
 }
 
 .color-container {
     color: white;
     background: white;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
 }
 
 .midnight-blue {
