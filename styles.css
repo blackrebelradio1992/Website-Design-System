@@ -40,3 +40,35 @@ body {
 .gold {
     background-color: #FFD700;
 }
+
+.font-label {
+    font-size: 25px;
+    text-decoration: underline;
+    display: inline-block;
+    width: 50%;
+    margin: 20px auto;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 1000;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+.water-brush {
+    font-family: 'Water Brush', cursive;
+}
+
+.share-tech-mono {
+    font-family: 'Share Tech Mono', monospace;
+}
